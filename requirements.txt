@@ -1,0 +1,11 @@
+# Dependências para os desafios Python
+# Nota: Os desafios básicos não requerem dependências externas
+# Este arquivo está aqui para manter a estrutura padrão do projeto
+
+# Para testes (opcional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
+# Para type checking (opcional)
+# mypy>=1.0.0
+
